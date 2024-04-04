@@ -1,0 +1,11 @@
+#resultado{
+  padding: 10px; 
+  padding-left: 30px;
+  margin-top: 10px;
+  max-width: 350px;
+  background-color: aqua;
+  border: 2px solid #fff;
+  border-radius: 15px;
+  box-shadow: 2px 3px #050404;
+  
+}
